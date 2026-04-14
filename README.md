@@ -1,28 +1,35 @@
 ## Hi there 👋
 
-I'm Marina, a biomedical engineer based in Spain.
+I'm Marina, a biomedical engineer and software engineer based in Spain.
 
-I mostly work on backend development — Java.
+I currently work on software development with Java, Docker, Kubernetes, JUnit, and Angular, while also keeping a strong interest in healthcare, data analysis, and technology applied to real-world problems.
 
-This is a profile where I upload some smaller projects, experiments, and things I'm currently working on.
+This profile is a place where I share small projects, experiments, and things I'm currently working on.
 
 ---
+
 ## Tools & Tech
-- **Programming Languages:** Java, Python, Swift, Swift UI
-- **Databases:** SQL (MySQL), NoSQL (MongoDB)
-- **Web programming:** HTML, CSS, JavaScript
 
-<!--
-**marinacastillo/marinacastillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **Programming Languages:** Java, Python, C, Swift, HTML, CSS, JavaScript
+- **Backend & Dev Tools:** Docker, Kubernetes, JUnit, Angular
+- **Databases:** SQL (MySQL), NoSQL (MongoDB), REDCap
+- **Data & Research:** Power BI, MATLAB, Maple, FEBio
+- **Other:** Git, GitHub, problem-solving, data analysis, and scientific computing
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me
+
+- Biomedical Engineer with a background in research and healthcare data.
+- Currently studying a Master's degree in Computer Science and Technology.
+- Interested in software engineering, data analysis, machine learning, and health tech.
+- I like learning new things, building useful projects, and exploring different areas of technology.
+
+---
+
+## What you'll find here
+
+- Personal projects
+- Small experiments
+- Code snippets and learning exercises
+- Projects related to software, data, and health technology
